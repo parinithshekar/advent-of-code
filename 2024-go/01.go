@@ -36,6 +36,6 @@ func one() {
 		answer2 += id * count[id]
 	}
 
-	fmt.Println("Day 1 Answer 1 -> ", answer1)
-	fmt.Println("Day 1 Answer 2 -> ", answer2)
+	fmt.Println("1.1 -> ", answer1)
+	fmt.Println("1.2 -> ", answer2)
 }
